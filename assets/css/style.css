@@ -6,8 +6,9 @@ header {
     background-color: #ffffff;
     border-color: #cccccc;
     border-width: 2px;
-    height: 65px;
+    height: 85px;
 }
+
 
 /*addin background color / image to the page */
 
@@ -17,11 +18,8 @@ body {
 
 /* adding some css to the ID myName, and locating the box in the right location */
 
-nav {
-    
-}
 
-#myName { 
+.myName { 
     color: white;
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-size: 1.5em;
@@ -38,13 +36,12 @@ nav {
     width: 960px;
     height: 500px;
     margin: auto;
-    padding: 10px;
     margin-top: 100px;
     border-style: solid;
     border-color: #dddddd;
     border-width: 1px;
     background-color: #ffffff;
-}
+} 
 
 /* adding a container to hold the forms for contacts */
 
@@ -89,14 +86,14 @@ h4 {
 a {
     color: #ccc;
     text-decoration: none;
-    display: inline;
+   
 }
 
 #aboutMe {
-    Padding: 1px;
+    Padding: 0px;
     font-family: 'Georgia', Times, Times New Roman, serif;
     color: #4aaaa5;
-    font-size: 1.5em;
+    font-size: 2em;
     font-weight: 600;
 }
 
