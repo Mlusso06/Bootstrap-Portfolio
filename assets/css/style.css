@@ -30,6 +30,9 @@ body {
     margin: auto;
 }
 
+.footer {
+    background-color: #666666;
+}
 /* adding a container to hold the image and text about me */
 
 .contentBox {
@@ -173,7 +176,7 @@ input[type=submit]:hover {
 }
 
 .footPg1 {
-    position: absolute;
+    height: 56px;
     bottom: 0;
     width: 100%;
     height: 2.5rem;
