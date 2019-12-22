@@ -6,7 +6,7 @@ header {
     background-color: #ffffff;
     border-color: #cccccc;
     border-width: 2px;
-    height: 85px;
+    height: 60px;
 }
 
 
@@ -24,14 +24,16 @@ body {
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-size: 1.5em;
     background: #4aaaa5;
-    padding: 10px;
+    padding: 15px;
     width: 250px;
     text-align: center;
-    margin: auto;
+    height: auto;
+    /* margin: auto; */
 }
 
-.footer {
+footer {
     background-color: #666666;
+    border-top: 8px solid #4aaaa5;
 }
 /* adding a container to hold the image and text about me */
 
